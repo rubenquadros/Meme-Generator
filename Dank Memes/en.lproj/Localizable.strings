@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Dank Memes
+
+  Created by Ruben on 17/11/18.
+  Copyright © 2018 Ruben. All rights reserved.
+*/
+"HOME_TITLE" = "Make Dank Memes";
+"APP_IMAGES" = "IMAGES";
+"GALLERY" = "FROM GALLERY";
+"SELECT_MEME" = "Select your Meme";
+"MAKE_MEME" = "Make your Meme";
+"CREATE_MEME" = "Dank Meme!";
+"TOP_MEME_TXT" = "Top Meme Text";
+"MIDDLE_MEME_TXT" = "Middle Meme Text";
+"BOTTOM_MEME_TXT" = "Bottom Meme Text";
+"TOP_MEME_TXT_HINT" = "Top Meme Text Appears Here";
+"MIDDLE_MEME_TXT_HINT" = "Middle Meme Text Appears Here";
+"BOTTOM_MEME_TXT_HINT" = "Bottom Meme Text Appears Here";
+"DANK_MEME" = "Dank Meme";
+"MEME_TITLE" = "Meme Title: ";
+"SAVE_MEME" = "SAVE MEME";
+"SHARE_MEME" = "SHARE MEME";
+"YOUR_TITLE" = "Your Title";
+"TITLE_ALRT" = "Meme Title";
+"TITLE_MSG" = "Please give your meme a name";
+"MEME_SVD" = "Meme Saved";
